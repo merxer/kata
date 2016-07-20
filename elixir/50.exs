@@ -1,16 +1,11 @@
 defmodule Times do
 
-  def double(n) do
-    n * n
-  end
+  def double(n), do: n * n
 
-  def triple(n) do
-    n * n * n
-  end
+  def triple(n), do: n * n * n
 
-  def quadruple(n) do
-    double(n) * double(n)
-  end
+  def quadruple(n), do: double(n) * double(n)
+
 end
 
 
