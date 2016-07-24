@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1469330446275" clover="3.2.0">
+	<project timestamp="1469330446276"  name="All Files" >
+		<metrics statements="2"  coveredstatements="2"  conditionals="0"  coveredconditionals="0"  methods="0"  coveredmethods="0"  elements="2"  coveredelements="2"  complexity="0"  packages="1"  files="1"  classes="1"  loc="3"  ncloc="3" />
+		<package name="jest" >
+			<metrics statements="2"  coveredstatements="2"  conditionals="0"  coveredconditionals="0"  methods="0"  coveredmethods="0" />
+			<file name="sum.js"  path="/Users/Tajlando/code/kata/jest/sum.js" >
+				<metrics statements="2"  coveredstatements="2"  conditionals="0"  coveredconditionals="0"  methods="0"  coveredmethods="0" />
+				<line num="1"  count="1"  type="stmt" />
+				<line num="3"  count="1"  type="stmt" />
+			</file>
+		</package>
+	</project>
+</coverage>

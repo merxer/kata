@@ -1,0 +1,13 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
