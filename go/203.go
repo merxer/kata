@@ -1,7 +1,7 @@
 package main
 
 const (
-	StarHyperGiant = iota
+	StarHyperGiant = 2.0 * iota
 	StarSuperGiant
 	StarBrightGiant
 	StarGiant
