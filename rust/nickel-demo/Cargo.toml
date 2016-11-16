@@ -1,0 +1,7 @@
+[package]
+name = "nickel-demo"
+version = "0.1.0"
+authors = ["THAWATCHAI SINGNGAM <34d30y@gmail.com>"]
+
+[dependencies]
+nickel = "*"
