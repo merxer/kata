@@ -1,7 +1,7 @@
 fn main() {
-    let x = true;
+    let x = 'x';
 
-    let y: bool = false;
+    let y = '💕';
 
     println!("{}, {}", x, y);
 
