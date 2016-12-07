@@ -1,3 +1,5 @@
 fn main() {
-    println!("Loop forever!");
+    loop {
+        println!("Loop forever!");
+    }
 }
