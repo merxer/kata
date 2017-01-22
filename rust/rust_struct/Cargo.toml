@@ -1,0 +1,6 @@
+[package]
+name = "rust_struct"
+version = "0.1.0"
+authors = ["THAWATCHAI SINGNGAM <singgnam.prasert@gmail.com>"]
+
+[dependencies]
